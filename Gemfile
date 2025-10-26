@@ -31,6 +31,9 @@ gem "solid_cable"
 # Pagination library [https://github.com/kaminari/kaminari]
 gem "kaminari"
 
+# Object searching and filtering library [https://github.com/activerecord-hackery/ransack]
+gem "ransack"
+
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
