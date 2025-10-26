@@ -34,6 +34,10 @@ gem "kaminari"
 # Object searching and filtering library [https://github.com/activerecord-hackery/ransack]
 gem "ransack"
 
+# Bootstrap 5 framework and icons [https://getbootstrap.com/, https://icons.getbootstrap.com/]
+gem "bootstrap", "~> 5.3.0"
+gem "bootstrap-icons"
+
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
